@@ -20,6 +20,16 @@ You will need the following things properly installed on your computer.
 * `npm install`
 * `bower install`
 
+## $ Commands Entered to build this app:
+* ember new super-rentals
+* ember server (ember s for short)
+* ember generate route about (ember g for short)
+* ember g route contact
+* ember g route index
+* ember g model rental
+* ember install emberfire (see google firebase account and apps)
+* ember g component rental-tile
+
 ## Running / Development
 
 * `ember serve`
