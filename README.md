@@ -30,6 +30,7 @@ You will need the following things properly installed on your computer.
 * ember install emberfire (see google firebase account and apps)
 * ember g component rental-tile
 * ember g component new-rental
+* ember g component update-rental
 
 ## Running / Development
 
