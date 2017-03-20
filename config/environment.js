@@ -17,6 +17,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      apiKey: "AIzaSyBs5yMcqn4nienjcC6Rq8qHQ5IIGvlYkO4",
+      authDomain: "epicodus-super-rentals-5ccce.firebaseapp.com",
+      databaseURL: "https://epicodus-super-rentals-5ccce.firebaseio.com",
+      storageBucket: "epicodus-super-rentals-5ccce.appspot.com"
+    },
+    
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
