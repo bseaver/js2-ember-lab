@@ -33,7 +33,7 @@ You will need the following things properly installed on your computer.
 * ember g component update-rental
 * ember g route rental
 * ember g component rental-detail
-*
+* ember install ember-bootstrap
 *
 *
 *
